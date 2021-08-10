@@ -1,0 +1,10 @@
+C:\Users\leleg\source\repos\ATBDEX11\ATBDEX11\bin\Debug\ATBDEX11.exe.config
+C:\Users\leleg\source\repos\ATBDEX11\ATBDEX11\bin\Debug\ATBDEX11.exe
+C:\Users\leleg\source\repos\ATBDEX11\ATBDEX11\bin\Debug\ATBDEX11.pdb
+C:\Users\leleg\source\repos\ATBDEX11\ATBDEX11\obj\Debug\ATBDEX11.csprojAssemblyReference.cache
+C:\Users\leleg\source\repos\ATBDEX11\ATBDEX11\obj\Debug\ATBDEX11.Form1.resources
+C:\Users\leleg\source\repos\ATBDEX11\ATBDEX11\obj\Debug\ATBDEX11.Properties.Resources.resources
+C:\Users\leleg\source\repos\ATBDEX11\ATBDEX11\obj\Debug\ATBDEX11.csproj.GenerateResource.cache
+C:\Users\leleg\source\repos\ATBDEX11\ATBDEX11\obj\Debug\ATBDEX11.csproj.CoreCompileInputs.cache
+C:\Users\leleg\source\repos\ATBDEX11\ATBDEX11\obj\Debug\ATBDEX11.exe
+C:\Users\leleg\source\repos\ATBDEX11\ATBDEX11\obj\Debug\ATBDEX11.pdb
